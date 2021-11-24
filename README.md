@@ -6,7 +6,7 @@ Citation is a cryptocurrency token on the Solana network that is 100% backed by 
 
 Citations are then yours to hold, transfer to others, or even sell I guess. Maybe you could offer them to your undergraduate research assistant in lieu of a wage in $$$. Weirder things happen in academia every day, we've gotten away with paying them in letters of recommendation for years and they don't seem to have noticed. Much easier to click a button, I reckon.
 
-## 'Why would you do this..'
+## Why would you do this? What fresh hell is this?
 
 Because what good academic doesn't want a new metric or form of internet points to argue over? And what better way to make Twitter discourse even more intolerable than melding Academic Twitter and Crypto Twitter. 
 
