@@ -1,4 +1,4 @@
-# The currency of academia
+# Citations are the currency of academia. Now literally.
 
 Academic often say that citations are the currency of academia - Now they literally are. We already work for fake non-money like letters of recommendation, authorship, citations, or even the vague whiff of a permanent position. Now Citations are a real, tolkenised currency the blockchain. 
 
